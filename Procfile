@@ -1,1 +1,1 @@
-worker: python happ.py
+web: python happ.py
